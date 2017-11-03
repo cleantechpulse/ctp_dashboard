@@ -1,0 +1,15 @@
+app.settings = list(
+  shiny.username = "username",
+  shiny.token = "000000",
+  shiny.secret = "xxxxxxx",
+  app.name = "app",
+  
+  db.type = "PostgreSQL",
+  db.name = "database",
+  db.host = "localhost",
+  db.port = 5432,
+  db.user = "user",
+  db.password = "password",
+  
+  offline.for.debugging=TRUE
+)

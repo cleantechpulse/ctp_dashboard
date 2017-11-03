@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.RDS
+
+
+.httr-oauth
+settings.txt
+
+development
+rsconnect
